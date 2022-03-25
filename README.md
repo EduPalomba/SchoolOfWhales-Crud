@@ -2,15 +2,18 @@
 
 > School Of Whales\
 > 03-25-2022\
-> Eduardo Palomba
+> Eduardo Palomba\
+> epalomba@gmail.com\
+> +1 786-899-8683
 
 > This application was coded on Visual Studio Code using XAMPP, CodeIgniter 4, Compose, jQuery, Bootstrap and MySQL.\
 > Running on: http://localhost/testsow/public
 
-> **Attention:**
-1. As no database was mentioned on the test I chose MySql, so, please, **run de script you will find below to create the database and table**. Some adjust on CodeIgniter may be necesary on App > Config > Boot > Database **in case the hostname is <> localhost or password is not blank.**
-2. **Change the admin e-mail** on Controllers > UserController.php > line 38 > $to = "email"
-3. Run the App on **http://localhost/testsow/public** to avoid JSON cross server errors
+> **Instructions:**
+1. **UnZip the testsow.zip** on a folder called "testsow"
+2. As no database was mentioned on the test I chose MySql, so, please, **run de script you will find below to create the database and table**. Some adjust on CodeIgniter may be necesary on App > Config > Boot > Database **in case the hostname is <> localhost or password is not blank.**
+3. **Change the admin e-mail** on Controllers > UserController.php > line 38 > $to = "email"
+4. Run the App on **http://localhost/testsow/public** to avoid JSON cross server errors
 
 > **Requisition:**
 
