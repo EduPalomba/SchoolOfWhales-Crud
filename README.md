@@ -26,9 +26,9 @@
 3. Additionally, when a user submits the form:
     - an automated email should be sent to the admin email.
 
-**Delivery:** You will submit your code via email using the link to your GitHub repository.
+- **Delivery:** You will submit your code via email using the link to your GitHub repository.
 
-**PS:** Please be prepared to walk us through how you did the exercise and what tools you used.
+- **PS:** Please be prepared to walk us through how you did the exercise and what tools you used.
 
 > **Script to create a DATABASE on MySQL**
 ```
